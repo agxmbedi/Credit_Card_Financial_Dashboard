@@ -74,7 +74,3 @@ _Data Analyst _
 
 
 
-## 🏁 Conclusion
-
-This project exemplifies how Power BI can turn raw financial data into actionable insights. Feel free to fork, contribute, or use it as inspiration for your own financial reporting dashboards.
-
