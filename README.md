@@ -37,13 +37,12 @@ The data was imported from CSV files into a SQL database, cleaned, and then load
 
 ### 1️⃣ Credit Card Transaction Report
 
-![Transaction Dashboard Preview](Credit_Card_Transaction_Report.png)
+![Transaction Dashboard Preview](Credit_Card_Transaction_Report.jpg)
 
 ### 2️⃣ Credit Card Customer Report
 
-![Customer Dashboard Preview](Credit_Card_Customer_Report.png)
+![Customer Dashboard Preview](Credit_Card_Customer_Report.jpg)
 
-> Replace the preview images above with actual screenshots of your dashboards.
 
 ---
 
@@ -65,13 +64,10 @@ The data was imported from CSV files into a SQL database, cleaned, and then load
 - ⚠️ Delinquent Rate: **6.06%**
 
 ---
+## 👤 Author
 
-## 💼 Resume Highlight
-
-> Credit Card Financial Dashboard using Power BI:
-- Built a comprehensive dashboard from SQL-based transaction and customer datasets.
-- Leveraged DAX for advanced metrics and Power Query for ETL.
-- Enabled stakeholders to analyze key trends and KPIs in real-time.
+**Agamjot Singh**  
+_Data Analyst _
 
 ---
 
